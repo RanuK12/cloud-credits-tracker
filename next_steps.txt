@@ -1,0 +1,4 @@
+Apply to Nebula: https://nebula.example.com/deals (Benefit: Free credits for startups)
+Apply to AWS: https://aws.amazon.com/credits (Benefit: Startup credits package)
+Apply to Google Cloud: https://cloud.google.com/credits (Benefit: Free tier credits)
+Apply to Azure: https://azure.microsoft.com/credits (Benefit: Cloud credits for devs)
